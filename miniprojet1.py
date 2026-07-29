@@ -17,7 +17,7 @@ while True:
     else:
         print("Your number is too big. Take some small guess...")
 
-print("----------GAME OVER----------") 
+print("----------GAME OVER----------")
 
 #Random Password genetator:-
 import random
@@ -32,3 +32,5 @@ for i in range(pass_len):
     password += random.choice(charValue)
 
 print("your random password is :",password)
+
+print("----------THANKS FOR USING THIS----------")
