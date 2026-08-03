@@ -33,4 +33,4 @@ for i in range(pass_len):
 
 print("your random password is :",password)
 
-print("----------THANKS FOR USING THIS----------")
+print("----------THANKS FOR USING MY PROJECT----------")
